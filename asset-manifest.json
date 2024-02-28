@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/company_website_react/static/css/main.790f8d67.css",
+    "main.js": "/company_website_react/static/js/main.be9fbc58.js",
+    "static/media/Transforming_slider.mp4": "/company_website_react/static/media/Transforming_slider.eda1d8960b64003cb16c.mp4",
+    "static/media/working_progress.mp4": "/company_website_react/static/media/working_progress.0cea187f97febbe81e5f.mp4",
+    "static/media/sssp_log_vd.mp4": "/company_website_react/static/media/sssp_log_vd.87eb199888666f415006.mp4",
+    "static/media/about_details.jpg": "/company_website_react/static/media/about_details.477e483843fce6a1aa07.jpg",
+    "static/media/client3.jpg": "/company_website_react/static/media/client3.9ea790cda9a96c93d3b3.jpg",
+    "static/media/client1.jpg": "/company_website_react/static/media/client1.b05a02e31785c5e6e169.jpg",
+    "static/media/settings.png": "/company_website_react/static/media/settings.90e17c6fa41e8495e8a3.png",
+    "static/media/computer.png": "/company_website_react/static/media/computer.d8bf94332eb4e727d45c.png",
+    "index.html": "/company_website_react/index.html",
+    "main.790f8d67.css.map": "/company_website_react/static/css/main.790f8d67.css.map",
+    "main.be9fbc58.js.map": "/company_website_react/static/js/main.be9fbc58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.790f8d67.css",
+    "static/js/main.be9fbc58.js"
+  ]
+}
