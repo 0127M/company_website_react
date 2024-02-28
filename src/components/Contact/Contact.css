@@ -3,12 +3,12 @@
 .get-in-touch-container {
     margin: 0 auto;
     padding: 20px;
+    background-color: rgb(255, 249, 249);
   }
   
   form {
     display: flex;
     flex-direction: column;
-    width: 200%;
   }
   
   .form-group {
