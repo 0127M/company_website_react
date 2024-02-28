@@ -1,0 +1,72 @@
+.about_us_details {
+    padding-top: 100px;
+}
+
+.line {
+    border-bottom: 2px solid rgb(83, 79, 79); /* Adjust color, thickness, and style as needed */
+    padding: 20px;
+}
+
+.about_details {
+    padding: 20px; /* Adjust padding as needed */
+}
+
+.mx-auto {
+    width: 80%;
+    height: auto; /* Change height to auto to allow content to expand */
+    border-radius: 21px 21px 0 0;
+}
+
+.image-with-shadow {
+    box-shadow: 0 4px 8px rgba(7, 7, 7, 0.6); /* Adjust shadow properties as needed */
+    padding: 20px; /* Add padding to the container to make room for the shadow */
+}
+
+/* Optional: Style for details section */
+.details {
+    padding: 20px; /* Add padding to the details section */
+}
+
+p {
+    font-family: Arial, sans-serif; /* Specifies the font family */
+    font-size: 22px; /* Specifies the font size */
+    font-weight: normal; /* Specifies the font weight (e.g., normal, bold) */
+    font-style: normal; /* Specifies the font style (e.g., normal, italic) */
+    line-height: 1.5; /* Specifies the line height */
+    color: #333; /* Specifies the text color */
+    text-align: left; /* Specifies the text alignment */
+    margin: 0 0 20px 0; /* Specifies the margin (top, right, bottom, left) */
+}
+
+.laptop_img {
+    max-width: 100%; /* Set max-width to ensure image is responsive */
+    height: auto; /* Set height to auto to maintain aspect ratio */
+}
+
+.btn-primary {
+    background-color: rgb(80, 72, 72);
+}
+
+.button_div {
+    padding-top: 20px;
+}
+
+.about_heading {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+
+.about_heading h1
+.about_heading h5 {
+    margin: 10px; /* Remove default margin */
+}
+
+.line {
+    border-bottom: 2px solid rgb(83, 79, 79); /* Adjust color, thickness, and style as needed */
+    margin: 2px auto; /* Center the line horizontally */
+}

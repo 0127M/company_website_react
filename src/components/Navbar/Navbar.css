@@ -1,0 +1,26 @@
+.logo{
+    width: 300px;
+    padding-left: 20px;
+
+}
+
+.header{
+    align-items: center;
+}
+
+
+.nav-link{
+    color: #1b1a1b;
+    font-weight: bolder;
+    font-size: large;
+    padding-right: 40px;
+}
+
+  
+span{
+    font-weight: 400;
+}
+
+ul.nav.nav-pills{
+    padding-right: 40px;
+}
